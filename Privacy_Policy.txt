@@ -1,0 +1,34 @@
+Privacy Policy for CodeMessages
+
+Effective Date: July 2nd 2023
+
+This Privacy Policy describes how CodeMessages ("we," "us," or "our") handles the privacy of users ("you" or "your") of our mobile application [App Name] (the "App"). By using the App, you agree to the terms and conditions outlined in this Privacy Policy.
+
+1. Information Collection:
+   CodeMessages does not collect any personally identifiable information (PII), such as your name, email address, phone number, or location.
+
+2. Information Usage:
+   We do not collect, store, or use any user data or personal information through the App. As a result, we cannot use or share your information for any purpose.
+
+3. Device Information:
+   The App may collect certain non-personal information automatically, such as device type, operating system version, and technical information about your device. This information is used solely for the purpose of optimizing the App's performance and resolving any technical issues that may arise.
+
+4. Analytics and Cookies:
+   We do not use cookies or analytics services to track or collect any user information. The App does not utilize any third-party services that may collect data for analytical or advertising purposes.
+
+5. Advertising:
+   The App does not display any third-party advertisements. Consequently, we do not collect any information for personalized advertising or tracking purposes.
+
+6. Security:
+   While we take reasonable measures to protect the App and your information, please be aware that no security measures are perfect or completely impenetrable. We cannot guarantee the security of any information transmitted through the App.
+
+7. Third-Party Links:
+   The App does not contain links to external websites or services.
+
+8. Changes to the Privacy Policy:
+   We reserve the right to update or modify this Privacy Policy at any time. If we make any material changes, we will notify you by posting the revised Privacy Policy within the App or through other reasonable means. Your continued use of the App following the changes will constitute your acceptance of the revised Privacy Policy.
+
+9. Contact Us:
+   If you have any questions, concerns, or requests regarding this Privacy Policy or the App, please contact us at thakkar.96@osu.edu.
+
+By using the App, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
