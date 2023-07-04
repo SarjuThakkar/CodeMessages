@@ -1,8 +1,7 @@
 # CodeMessages
 A Codenames board game like game built for iMessage
 
-![output_Cropped_6_1024x768](https://github.com/SarjuThakkar/CodeMessages/assets/47423423/4036cc90-0432-4315-aaed-a38918b6e10d)
-
+App Store Link:
 https://apps.apple.com/us/app/codemessages/id6450878692
 
 https://github.com/SarjuThakkar/CodeMessages/assets/47423423/451d68f7-159a-46d5-855f-8007e7cd0ad8
@@ -19,7 +18,7 @@ How To Play:
 7. Strategy and Communication: As the game progresses, teams must carefully analyze the clues, the grid, and their opponents' choices. Effective communication is key to avoid the black card and uncover all their agents.
 8. Winning: You and your partner must identify all of your blue agents to win before the AI red team guesses all their cards.
 
-
+![output_Cropped_6_1024x768](https://github.com/SarjuThakkar/CodeMessages/assets/47423423/4036cc90-0432-4315-aaed-a38918b6e10d)
 
 
 
